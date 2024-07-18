@@ -24,3 +24,4 @@ Added (static) user registration page:
 Resolve CP-32
 ```
 
+
